@@ -27,4 +27,4 @@ compilation:
     time：时间
     utils：工具类
     
-由另外一个项目：nem.deploy来启动发布    
+由另外一个项目：nem.deploy来启动发布，可以合并起来作为子模块使用
